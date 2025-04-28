@@ -1,3 +1,5 @@
+## NAME : GAYATHRI S
+## REG NO: 212224060078
 EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
@@ -9,9 +11,14 @@ Write a C program to convert a 23.65 into 25 using pointer
 4.	Print the modified value.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/ead69a0e-89be-4596-9a6b-fc8defc4c041)
+
+
+
 
 ## OUTPUT:
- 	
+ ![image](https://github.com/user-attachments/assets/16efc2ea-2ed4-4ea9-b5cc-ba0a83ec66c3)
+
 
 
 
@@ -45,7 +52,11 @@ Write a C program to calculate the Product of first 12 natural numbers using Rec
 6.	Print the result, indicating it is the product of the first 12 natural numbers.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/57094fa2-1d84-483c-93ea-83d0e798db30)
+
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/347648ba-2bad-45fd-933c-770897f48e19)
+
          		
 ## RESULT:
 
@@ -67,17 +78,22 @@ Write C Program to find Sum of each row of a Matrix
 3.	Inside the loop, calculate the sum of the elements in each row.
 4.	Print the sum for each row.
 
-## PROGRAM:
+## PROGRAM: 
+![image](https://github.com/user-attachments/assets/273e89ce-99be-435a-82b1-9270c0a68249)
 
 
 
-## OUTPUT
+
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/1dd4cc66-aa4d-4970-af63-3e861d5e5690)
+
 
 
  
  
 
  ## RESULT
+## Thus the program has been executed successfully
  
 
 
@@ -96,9 +112,12 @@ Write C program for the below pyramid string pattern. Enter a string: PROGRAM En
 5.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/f7740c6b-197f-4008-80b0-fd4144d27f2c)
+
 
 
  ## OUTPUT
+![image](https://github.com/user-attachments/assets/ddd9be8d-d64d-41f4-a978-0a347226fe7d)
 
  
 
@@ -132,8 +151,12 @@ Step 5: Loop from i = 0 to i < n:
 Step 6: End the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/ffe0f010-3ea4-4a42-b5b9-cf1c3a701be9)
+
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/77a3f2a4-f3a0-4513-b190-ea9abcf4a9e5)
+
 
  
 
